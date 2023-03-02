@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#A7F6EE</color>
+    <color name="teal_700">#74F47B</color>
+    <color name="black">#FF000000</color>
+    <color name="success">#2DD872</color>
+
+
+
+<!--    my colors-->
+    <color name="bg_color_purple">#443BC9</color>
+    <color name="bg_color_purple_dark">#3E34B5</color>
+    <color name="bet_color2">#D5D5EE</color>
+
+
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_gray">#E3E4ED</color>
+    <color name="tomato">#FF5A59</color>
+    <color name="red">#FF4545</color>
+
+    <color name="btn_color_purple">#3E34B5</color>
+    <color name="icon_color">#9C98E8</color>
+    <color name="font_color_primary">#3E34B5</color>
+    <color name="font_color_secondary">#525685</color>
+
+
+    <color name="colorDisabledBackground">#A5A5A8</color>
+
+
+
+
+</resources>

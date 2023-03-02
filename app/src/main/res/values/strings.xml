@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LotteryPlay</string>
+    <string name="user_welcome">Hello User</string>
+
+    <string name="your_balance">Your Balance:</string>
+    <string name="balance_value">1000</string>
+    <string name="_1x">1x</string>
+    <string name="_1000">1000</string>
+    <string name="place_your_bet">Place your bet</string>
+    <string name="another_bet">Another Bet</string>
+    <string name="roll_the_ball">Draw the ball</string>
+    <string name="selected_numbers">Selected Numbers</string>
+    <string name="number_of_draws">Number of Draws</string>
+    <string name="_45">45</string>
+    <string name="_9_000_000">₱ 9,000,000</string>
+    <string name="jackpot_price">Jackpot Price</string>
+</resources>
